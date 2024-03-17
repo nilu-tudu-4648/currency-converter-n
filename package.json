@@ -1,0 +1,26 @@
+{
+  "name": "currency-converter-n",
+  "version": "1.0.0",
+  "description": "npm package to currency converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilu-tudu-4648/currency-converter-n.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Nilesh",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nilu-tudu-4648/currency-converter-n/issues"
+  },
+  "homepage": "https://github.com/nilu-tudu-4648/currency-converter-n#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
